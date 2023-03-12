@@ -30,7 +30,7 @@
     }
 
     .header__nav-item {
-        margin:0 10px ;
+        margin: 0 6px;
     }
     .content__product-img {
         height: 220px;
@@ -50,6 +50,13 @@
 
     .header__user-list, .header__search {
         width: 100%;
+        
+    }
+
+    .header__user-list {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
 
     .header__search-input {
@@ -63,6 +70,22 @@
         justify-content: space-around;
     }
 
+    .header__user-cart-icon  {
+        font-size: 2.4rem;
+    }
+
+    
+    .header__search {
+        margin:0 0 0 12px;
+    }
+
+    .header__cart {
+        margin-right: 12px;
+    }
+
+    .header__user-link {
+        padding: 4px;
+    }
     .header__search-btn {
         height: 34px;
         padding: 8px;
