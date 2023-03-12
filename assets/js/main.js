@@ -10,7 +10,7 @@ menu__mobile.addEventListener("click", function() {
     isToggleOn = !isToggleOn;
 })
 
-//hiển thị submeny
+//hiển thị submenu
 const menuParent = document.querySelector(".header__nav-parent");
 
 menuParent.addEventListener("click", function(){
