@@ -28,6 +28,13 @@
         padding-left: 0;
         margin-left: 0px;
     }
+
+    .header__nav-item {
+        margin:0 10px ;
+    }
+    .content__product-img {
+        height: 220px;
+    }
 }
 
 /* Mobile */
@@ -118,6 +125,9 @@
         z-index: 1;
     }
 
+    .content__product-img {
+        height: 180px;
+    }
 
     /* animation */
 
