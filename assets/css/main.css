@@ -216,11 +216,12 @@
 
 .slider {
     padding-top: 50%;
+    margin-top: 110px;
     background: url("/assets/img/banner-1.png") top center / cover no-repeat;
 }
 
 /* container */
-.container {
+.container__shop {
     margin: 146px 0 60px 0;
 }
 .content__title {
