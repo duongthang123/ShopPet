@@ -225,7 +225,7 @@ html {
 .slider {
     padding-top: 50%;
     margin-top: 110px;
-    background: url("./assets/img/banner-1.png") top center / cover no-repeat;
+    background: url("../assets/img/banner-1.png") top center / cover no-repeat;
 }
 
 /* container */
