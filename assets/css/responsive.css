@@ -157,6 +157,14 @@
         height: 180px;
     }
 
+    .cart__title-quatity-main {
+        flex-direction: column;
+    }
+
+    .cart__scroll {
+        overflow: scroll;
+    }
+
     /* animation */
 
     @keyframes FadeIn {
