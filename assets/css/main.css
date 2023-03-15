@@ -298,6 +298,7 @@ html {
 }
 
 .content__action_btn {
+    text-decoration: none;
     display: flex;
     width: 120px;
     margin: auto;

@@ -21,6 +21,7 @@ html {
 
 .btn {
     min-width: 140px;
+    text-decoration: none;
     line-height: 36px;
     padding: 6px 8px;
     margin-right: 6px;
